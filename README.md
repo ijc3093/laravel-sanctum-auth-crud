@@ -11,7 +11,7 @@
 - Step 8: Create REST API Routes
 - Step 09: Test REST API in Postman
 
-
+# Description
 - composer install (This is for creating new project)
 - php artisan key:generate  (This is for creating new file)
 - php artisan migrate (This is for connecting between database and php)
